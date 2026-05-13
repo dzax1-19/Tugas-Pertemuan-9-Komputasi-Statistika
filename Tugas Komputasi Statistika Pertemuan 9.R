@@ -24,3 +24,5 @@ hist(mtcars$mpg)
 # Membuat Plot
 plot(mtcars$mpg)
 
+# Membuat Barplot
+barplot(mtcars$mpg)
