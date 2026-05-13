@@ -18,3 +18,5 @@ min(mtcars$mpg)
 # Melihat 6 data pertama MPG
 head(mtcars$mpg)
 
+# Membuat Plot
+plot(mtcars$mpg)
