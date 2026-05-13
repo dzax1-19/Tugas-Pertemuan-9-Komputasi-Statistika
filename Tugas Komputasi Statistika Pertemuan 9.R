@@ -20,3 +20,7 @@ head(mtcars$mpg)
 
 # Membuat Histogram
 hist(mtcars$mpg)
+
+# Membuat Plot
+plot(mtcars$mpg)
+
